@@ -1,0 +1,6 @@
+applications:
+ - name: mrak-dss
+   host: mrak-dss
+   path: target/DSS.war
+   memory: 512M
+   instances: 1
